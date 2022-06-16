@@ -1,0 +1,80 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	59
+#@/user_id	94b8be7e-a73b-4204-aedd-ed199d6c0b0d
+an wei 	安慰	c=1 d=1 t=52
+an zhuang 	安裝	c=0 d=0.0932394 t=59
+an zhuang ge 	安裝個	c=1 d=0.937067 t=59
+ba 	吧	c=1 d=0.923116 t=59
+bu 	不	c=0 d=0.0965605 t=59
+bu hao ting 	不好聽	c=1 d=0.970446 t=59
+cheng du 	成都	c=1 d=0.843665 t=59
+da cheng xie yi 	達成協議	c=0 d=0.0818731 t=59
+da cheng xie yi le 	達成協議了	c=1 d=0.822835 t=59
+dai 	帶	c=0 d=0.0904837 t=59
+dai da 	代搭	c=1 d=0.882497 t=59
+dai mo kuai 	帶模塊	c=1 d=0.909373 t=59
+de 	的	c=3 d=2.91353 t=59
+dou xing 	都行	c=1 d=0.790571 t=59
+en 	嗯	c=1 d=0.869358 t=59
+gai bu liao 	改不了	c=1 d=0.895834 t=59
+ge 	個	c=2 d=1.7638 t=59
+gui 	貴	c=0 d=0.0860708 t=59
+gui le 	貴了	c=0 d=0.0882497 t=59
+hai 	海	c=1 d=0.913931 t=59
+hao ting 	好聽	c=0 d=0.0965605 t=59
+jian 	簡	c=1 d=0.960789 t=59
+kai ge 	開個	c=1 d=0.878095 t=59
+ke yi 	可以	c=1 d=0.873566 t=59
+lai 	來	c=1 d=0.794534 t=59
+lai le 	來了	c=1 d=0.806541 t=59
+le 	了	c=0 d=0.0818731 t=59
+liang ge 	兩個	c=1 d=0.860708 t=59
+mei guo 	美國	c=2 d=1.70856 t=59
+mian ban 	面板	c=1 d=0.941765 t=59
+mo kuai 	模塊	c=0 d=0.0904837 t=59
+na shi 	那是	c=0 d=0.0951229 t=59
+neng bu neng 	能不能	c=1 d=0.904837 t=59
+ni 	你	c=0 d=0.0895834 t=59
+ni deng 	你等	c=0 d=0.0923116 t=59
+ni deng yi xia 	你等一下	c=1 d=0.927743 t=59
+ni lia 	你倆	c=1 d=0.818731 t=59
+ni shi 	你是	c=1 d=1 t=50
+ni wen ta 	你問他	c=1 d=0.900325 t=59
+ni zai 	你在	c=2 d=1.96042 t=59
+pei se 	配色	c=1 d=1 t=57
+ping guo 	蘋果	c=1 d=1 t=55
+shang hai 	上海	c=1 d=0.83527 t=59
+shei 	谁	c=1 d=1 t=51
+shu ru fa 	輸入法	c=1 d=1 t=56
+shuo chu 	說出	c=0 d=0.0798516 t=59
+tai 	太	c=0 d=0.0882497 t=59
+tai gui le 	太貴了	c=1 d=0.88692 t=59
+tong bu 	同步	c=1 d=0.798516 t=59
+wen ta 	問他	c=0 d=0.0895834 t=59
+wen zi 	文字	c=1 d=1 t=58
+wo 	我	c=1 d=1.06093 t=59
+wo chu 	我處	c=0 d=0.088692 t=59
+wo chu yi ban 	我處一般	c=1 d=0.891366 t=59
+wo na shi 	我那是	c=1 d=0.955997 t=59
+wo qu 	我去	c=1 d=0.932394 t=59
+wo zhi dao 	我知道	c=1 d=0.946485 t=59
+xiao lang hao 	小狼毫	c=1 d=1 t=54
+xie 	寫	c=1 d=0.965605 t=59
+xuan zhong 	選中	c=1 d=1 t=59
+yi ban 	一般	c=0 d=0.088692 t=59
+yi ge 	一個	c=1 d=0.847894 t=59
+yi qi 	一起	c=0 d=0.0798516 t=59
+yi qi shuo chu 	一起說出	c=1 d=0.802519 t=59
+yi xia 	一下	c=0 d=0.0923116 t=59
+you 	有	c=1 d=0.826959 t=59
+zan 	咱	c=0 d=0.0869358 t=59
+zan ke yi 	咱可以	c=1 d=0.873716 t=59
+zhe ge 	這個	c=2 d=1.97025 t=59
+zhe ju hua 	這句話	c=1 d=0.810584 t=59
+zhe me 	這麼	c=0 d=0.0860708 t=59
+zhe me gui 	這麼貴	c=1 d=0.865022 t=59
+zhe shi 	這是	c=1 d=0.951229 t=59
+zou zhe 	走着	c=1 d=0.814647 t=59
